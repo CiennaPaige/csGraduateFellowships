@@ -7,9 +7,6 @@ The best way to receive funding is through your respective graduate programs. Mo
 ## Awards
 | Name          | Deadline      | Masters/PhD  |
 | ------------- |:-------------:| ------------:|
-| [ACM SIGAI Doctoral Dissertation Award](https://awards.acm.org/doctoral-dissertation/nominations) | October | PhD |
-| [Nature Research Awards for Inspiring and Innovating Science](https://www.nature.com/collections/jcpghfmqlz/applynow?utm_source=twitter&utm_medium=social&utm_campaign=awds-esteelauder2020&utm_content=organic) | June | Post-PhD |
-| [Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars) | August | PhD |
 
 ## Scholarships
 | Name          | Deadline      | Masters/PhD  |
@@ -29,50 +26,15 @@ The best way to receive funding is through your respective graduate programs. Mo
 ## Fellowships 
 | Name          | Deadline      | Masters/PhD  | Citizenship  | Nomination   |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
-| [AAUW American Fellowships](https://www.aauw.org/what-we-do/educational-funding-and-awards/american-fellowships/) | November | PhD |  |  |
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |  |  |
-| [ACM-IEEE CS George Michael Memorial HPC Fellowship](https://awards.acm.org/hpc-fellows) | May | PhD |  |  |
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |  |  |
-| [Apple Scholars in AI/ML](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml) | October | PhD |  | Internal Nomination |
-| [Bloomberg Data Science Fellowship](https://www.techatbloomberg.com/bloomberg-data-science-ph-d-fellowship/) | April | PhD |  |  |
-| [Computing Innovation Fellows (CIFellows) Program](https://cra.org/ccc/leadership-development/cifellows/) | TBD | Post-PhD |  |  |
-| [Congressional Innovation Scholars Program](https://www.techcongress.io/blog/2019/2/7/now-recruiting-2019-congressional-innovation-scholars) | February | PhD |  |  |
-| [Computer and Information Science and Engineering (CISE) Graduate Fellowships (CSGrad4US)](https://www.nsf.gov/cise/CSGrad4US/) | April | PhD |  |  |
-| Datminr Diversity in AI for Good Fellowship | December | PhD |  |  |
-| [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) | January | PhD |  |  |
-| [Facebook Fellowship Program and Emerging Scholar Awards](https://research.fb.com/programs/fellowship/) | October | PhD |  |  |
 | [Fatima Fellowship](https://abidlabs.github.io/fellowship/) | October | Pre-PhD |  |  |
-| [Ford Foundation Fellowship Program](http://sites.nationalacademies.org/pga/fordfellowships/index.htm) | January | PhD |  |  |
-| [Frontera Computational Science Fellowship](https://frontera-portal.tacc.utexas.edu/fellowship/) | February | PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
-| [Google PhD Fellowship](https://ai.google/research/outreach/phd-fellowship/) | December | PhD |  | Internal Nomination |
-| [Hertz Fellowship](https://hertzfoundation.org/fellowships/application/) | October | PhD |  |  |
-| [HRT Hail Fellowship](http://www.hudson-trading.com/fellowship/) | December | PhD |  |  |
 | [IBM Masters Fellowship](https://www.research.ibm.com/university/awards/masters_fellowship.html) | October | Masters |  |  |
-| [IBM Ph.D. Fellowship](https://www.research.ibm.com/university/awards/fellowships.html) | October | PhD |  |  |
-| [Link Foundation Fellowship](http://www.linksim.org) | January | PhD |  |  |
-| [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) | September | PhD |  | Internal Nomination |
-| [Microsoft Research PhD Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | September | PhD |  | Internal Nomination |
-| [Microsoft Research Faculty Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/faculty-fellowship/?ocid=msr_program_2021_faculty_tw) | September | Faculty |  |  |
-| [MIT METEOR Postdoctoral Fellowship Program](https://www.csail.mit.edu/meteor) | June | Postdoc |  |  |
-| [National Defense Science and Engineering Graduate Fellowship](https://www.ndsegfellowships.org/application) | December | PhD |  |  |
 | [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
-| [NVIDIA Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/)| September | PhD |  |  |
 | [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |  |  |
-| [Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship) | October | PhD |  |  |
 | [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |  |  |
-| [PEO Scholar Award](https://www.peointernational.org/psa-eligibility-requirements) | November | PhD |  |  |
-| [Qualcomm Innovation Fellowship](https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship) | October | PhD |  |  |
-| [SCGSR Program](http://science.energy.gov/wdts/scgsr/) | May | PhD |  |  |
-| [Schlumberger Foundation Faculty for the Future Fellowship](https://www.fftf.slb.com/) | November | PhD |  |  |
-| [Schmidt Science Fellows](https://schmidtsciencefellows.org/) | May | Postdoc |  | Internal Nomination |
-| [Siebel Scholars](http://www.siebelscholars.com/about) (Open to select schools) | July | PhD |  |  |
 | [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
-| [Snap Research Fellowship & Scholarship Program](https://snapresearchfs.splashthat.com/) | December | PhD |  |  |
-| [Symantec Research Labs Graduate Fellowship](https://www.symantec.com/about/careers/graduate-fellowship) | December | PhD |  |  |
-| [Twitter PhD Research Fellowship](https://phdfellowship.splashthat.com/) | December | PhD |  |  |
-| [Two Sigma PhD Fellowship](https://twosigma.avature.net/eventsignup/eventDetail/New-York-New-York-United-States-2021-Two-Sigma-PhD-Fellowship/7272) | November | PhD |  |  |
-| [Two Sigma Diversity PhD Fellowship](https://twosigma.avature.net/eventsignup/eventDetail/New-York-New-York-United-States-2021-Two-Sigma-Diversity-PhD-Fellowship/7273) | November | PhD |  |  |
 |               |               |              |               |              |
 
 ## Resources for Applying to Fellowships
