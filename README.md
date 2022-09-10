@@ -9,16 +9,14 @@ The best way to receive funding is through your respective graduate programs. Mo
 | ------------- |:-------------:| ------------:|
 
 ## Scholarships
-| Name          | Deadline      | Masters/PhD  |
-| ------------- |:-------------:| ------------:|
+| Name          | Deadline      | Masters/PhD  | Notes |
+| ------------- |:-------------:| ------------:| ------------:|
 | [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Both |
-| [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both |
-| [Intel Scholarship](https://scholarships.uncf.org/Program/Details/9eb15008-3567-45ed-b62f-aa14c784b09a) | December | Both |
-| [NANOG Scholarship](https://www.nanog.org/outreach/scholarship-program/) | Varies | Both |
-| [National Society of Black Engineers](https://connect.nsbe.org/Scholarships/ScholarshipList.aspx) | Varies | Both |
-| [Oracle Academy](https://academy.oracle.com/en/about-scholarships.html) | Varies | Both |
-| [Society of Women Engineers](https://societyofwomenengineers.swe.org/swe-scholarships) | Varies | Both|
-| [Wade Scholarship Program](https://www.wit.university/) | Varies | Masters|
+| [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both | Not active |
+| [Intel Scholarship](https://www.intel.com/content/www/us/en/diversity/scholars-program-scholarships.html) | December | Both | For US schools only I think |
+| [National Society of Black Engineers Scholarships](https://www.nsbe.org/Collegiate/Education/Scholarships) | Varies | Both |
+| [Society of Women Engineers](https://swe.org/scholarships/) | Varies | Both|
+| [Wade Scholarship Program](https://wadescholarship.org/) | January 15 | Masters|
 | |  |  |
 | |  |  | 
 
