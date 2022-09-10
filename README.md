@@ -22,17 +22,15 @@ The best way to receive funding is through your respective graduate programs. Mo
 
 
 ## Fellowships 
-| Name          | Deadline      | Masters/PhD  | Citizenship  | Nomination   |
-| ------------- |:-------------:| ------------:| ------------:| ------------:|
+| Name          | Deadline      | Masters/PhD  | Notes | Citizenship  | Nomination   |
+| ------------- |:-------------:| ------------:| ------------:| ------------:| ------------:|
 | [ACM SIGHPC / Intel Computational & Data Science Fellowship](https://www.sighpc.org/fellowships) | April | Both |  |  |
 | [Adobe Fellowship](https://research.adobe.com/fellowship/) | September | Both |  |  |
-| [Fatima Fellowship](https://abidlabs.github.io/fellowship/) | October | Pre-PhD |  |  |
 | [GEM Fellowship Program](http://www.gemfellowship.org/) | November | Both |  |  |
 | [IBM Masters Fellowship](https://www.research.ibm.com/university/awards/masters_fellowship.html) | October | Masters |  |  |
-| [NPSC Fellowship](http://www.npsc.org/index.html)| December | Both |  |  |
-| [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October | Both |  |  |
-| [Paul & Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) | November | Both |  |  |
-| [SMART Scholarship for Service Program](https://smartscholarshipprod.service-now.com/smart) | December | Both |  |  |
+| [Graduate Fellowships for STEM Diversity (GFSD)](https://stemfellowships.org/)| December 15 | Both |  |  |
+| [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) | October 20 | Both | US schools only |  |
+| [SMART Scholarship for Service Program](https://www.smartscholarship.org/smart?id=kb_article&sys_id=33b85cb7db754300b67330ca7c961911) | December | Both | Required acceptance of job at DoD following graduation |  |
 |               |               |              |               |              |
 
 ## Resources for Applying to Fellowships
