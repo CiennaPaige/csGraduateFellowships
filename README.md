@@ -5,18 +5,19 @@ The best way to receive funding is through your respective graduate programs. Mo
 
 
 ## Awards
-| Name          | Deadline      | Masters/PhD  |
-| ------------- |:-------------:| ------------:|
-
-## Scholarships
-| Name          | Deadline      | Masters/PhD  | Notes |
+| Name          | Deadline      | Open/Closed | Masters/PhD  |
 | ------------- |:-------------:| ------------:| ------------:|
-| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Both |
+
+## Domestic Scholarships
+| Name          | Deadline      | Open/Closed | Masters/PhD  | Note |
+| ------------- |:-------------:| ------------:| ------------:| ------------:|
+| [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/#!?detail-content-tabby_activeEl=overview) | December | Closed, open in 2021 | Both | US only |
 | [Google Women Techmakers Scholarship](https://www.womentechmakers.com/scholars) | December | Both | Not active |
 | [Intel Scholarship](https://www.intel.com/content/www/us/en/diversity/scholars-program-scholarships.html) | December | Both | For US schools only I think |
 | [National Society of Black Engineers Scholarships](https://www.nsbe.org/Collegiate/Education/Scholarships) | Varies | Both |
-| [Society of Women Engineers](https://swe.org/scholarships/) | Varies | Both|
-| [Wade Scholarship Program](https://wadescholarship.org/) | January 15 | Masters|
+| [Society of Women Engineers](https://swe.org/scholarships/) | Varies | Closed | Both| 
+| [Wade Scholarship Program](https://wadescholarship.org/) | January 15, 2022 | Masters| Have to go to a top tech school in the US |
+| [United Negro College Fund](https://uncf.org/) | TBH | Masters| Closed |
 | |  |  |
 | |  |  | 
 
